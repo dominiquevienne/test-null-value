@@ -2,6 +2,7 @@
 This repository will try to determine which code is the best to test if a value is null
 ## Results on my computer
 Code results are the following on my computer using the PHP CLI
+
     Checking 3000000000 times x 3
     
     Testing $value === null: 21.434537887573s
